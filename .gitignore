@@ -1,2 +1,2 @@
-st.o
-.config.def.h.un~
+*.o
+.*~
